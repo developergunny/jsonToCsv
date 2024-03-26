@@ -40,3 +40,7 @@ Convert paths in JSON to CSV or converted CSV to JSON
 |common.save|Save|
 |common.snackbar.message|Snackbar message|
 |...|
+
+> Why made it
+
+One very large json data is often modified or new keys are added, so it becomes difficult to manage, so we created it to convert it to csv, collaborate on it, and convert it back to json to store it.
