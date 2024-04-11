@@ -28,6 +28,7 @@ Convert paths in JSON to CSV or converted CSV to JSON
   },
   "attach": "Attach",
   "close": "Close",
+  ...
 }
 ```
 
